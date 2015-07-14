@@ -1,4 +1,4 @@
-# model-quake
+# quake-model
 Earthquake models
 
 ## License
