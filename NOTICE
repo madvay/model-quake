@@ -1,0 +1,36 @@
+model-quake,
+Earthquake modeling.
+
+Copyright (c) 2015 by Advay Mengle - https://madvay.com/source/model-quake
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this software except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+This serves as the NOTICE under Section 4 d of the License.
+
+Subcomponents:
+- Data under /third_party/data/usgs:
+    Source of data: U.S. Geological Survey
+    The USGS home page is http://www.usgs.gov.
+    
+    Per http://www.usgs.gov/laws/info_policies.html:
+    "USGS-authored or produced data and information are considered to
+    be in the U.S. public domain. While the content of most USGS Web 
+    pages is in the U.S. public domain, not all information,
+    illustrations, or photographs on our site are."
+    "Neither the U.S. Government, the Department of the Interior,
+    nor the USGS, nor any of their employees, contractors, or 
+    subcontractors, make any warranty, express or implied, nor assume
+    any legal liability or responsibility for the accuracy, 
+    completeness, or usefulness of any information, apparatus, 
+    product, or process disclosed, nor represent that its use would 
+    not infringe on privately owned rights."
