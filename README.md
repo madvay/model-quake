@@ -1,0 +1,2 @@
+# model-quake
+Earthquake models
